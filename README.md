@@ -1,2 +1,8 @@
 # DataScienceI-Project
-Proyecto Data Science parte 1 Coder House
+
+
+Proyecto Introducción a la inteligencia artificial
+
+Juan José Alzate Molina
+cc 1007232151
+Bioingeniería
